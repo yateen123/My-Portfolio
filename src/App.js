@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'styled-components';
 import './App.css';
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router} from "react-router-dom";
 import { useState } from 'react';
 import { darkTheme, lightTheme } from './utils/Themes';
 import Navbar from './components/Navbar';

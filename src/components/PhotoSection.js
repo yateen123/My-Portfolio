@@ -1,6 +1,6 @@
 import React from 'react'
 import PhotoBgAnimation from './PhotoBgAnimation'
-import { ProfileContainer, ProfileBg, ProfileLeftContainer, Img, ProfileRightContainer, ProfileInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButton } from './PhotoSectionStyles'
+import { ProfileContainer, ProfileBg, ProfileLeftContainer, Img, ProfileRightContainer, ProfileInnerContainer, TextLoop, Title, Span, SubTitle, ResumeButton } from './PhotoSectionStyles'
 import ProfileImg from '../images/Image.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../data/constants';
